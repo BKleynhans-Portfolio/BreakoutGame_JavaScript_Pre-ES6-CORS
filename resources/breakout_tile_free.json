@@ -1,0 +1,798 @@
+{
+   "image_path": "breakout_tile_free.png",
+   "subtexture": [
+      {
+         "name": "01-breakout-tiles.png",
+         "attributes": {
+            "color": "darkblue",
+            "style": "solid",
+            "property": ""
+         },
+         "description": "block",
+         "x": "772",
+         "y": "390",
+         "width": "384",
+         "height": "128"
+      },
+      {
+         "name": "02-breakout-tiles.png",
+         "attributes": {
+            "color": "darkblue",
+            "style": "cracked",
+            "property": ""
+         },
+         "description": "block",
+         "x": "0",
+         "y": "0",
+         "width": "384",
+         "height": "128"
+      },
+      {
+         "name": "03-breakout-tiles.png",
+         "attributes": {
+            "color": "lightgreen",
+            "style": "solid",
+            "property": ""
+         },
+         "description": "block",
+         "x": "0",
+         "y": "130",
+         "width": "384",
+         "height": "128"
+      },
+      {
+         "name": "04-breakout-tiles.png",
+         "attributes": {
+            "color": "lightgreen",
+            "style": "cracked",
+            "property": ""
+         },
+         "description": "block",
+         "x": "0",
+         "y": "260",
+         "width": "384",
+         "height": "128"
+      },
+      {
+         "name": "05-breakout-tiles.png",
+         "attributes": {
+            "color": "purple",
+            "style": "solid",
+            "property": ""
+         },
+         "description": "block",
+         "x": "0",
+         "y": "390",
+         "width": "384",
+         "height": "128"
+      },
+      {
+         "name": "06-breakout-tiles.png",
+         "attributes": {
+            "color": "purple",
+            "style": "cracked",
+            "property": ""
+         },
+         "description": "block",
+         "x": "0",
+         "y": "520",
+         "width": "384",
+         "height": "128"
+      },
+      {
+         "name": "07-breakout-tiles.png",
+         "attributes": {
+            "color": "red",
+            "style": "solid",
+            "property": ""
+         },
+         "description": "block",
+         "x": "772",
+         "y": "260",
+         "width": "384",
+         "height": "128"
+      },
+      {
+         "name": "08-breakout-tiles.png",
+         "attributes": {
+            "color": "red",
+            "style": "cracked",
+            "property": ""
+         },
+         "description": "block",
+         "x": "772",
+         "y": "130",
+         "width": "384",
+         "height": "128"
+      },
+      {
+         "name": "09-breakout-tiles.png",
+         "attributes": {
+            "color": "orange",
+            "style": "solid",
+            "property": ""
+         },
+         "description": "block",
+         "x": "772",
+         "y": "0",
+         "width": "384",
+         "height": "128"
+      },
+      {
+         "name": "10-breakout-tiles.png",
+         "attributes": {
+            "color": "orange",
+            "style": "cracked",
+            "property": ""
+         },
+         "description": "block",
+         "x": "772",
+         "y": "650",
+         "width": "384",
+         "height": "128"
+      },
+      {
+         "name": "11-breakout-tiles.png",
+         "attributes": {
+            "color": "lightblue",
+            "style": "solid",
+            "property": ""
+         },
+         "description": "block",
+         "x": "386",
+         "y": "650",
+         "width": "384",
+         "height": "128"
+      },
+      {
+         "name": "12-breakout-tiles.png",
+         "attributes": {
+            "color": "lightblue",
+            "style": "cracked",
+            "property": ""
+         },
+         "description": "block",
+         "x": "386",
+         "y": "520",
+         "width": "384",
+         "height": "128"
+      },
+      {
+         "name": "13-breakout-tiles.png",
+         "attributes": {
+            "color": "yellow",
+            "style": "solid",
+            "property": ""
+         },
+         "description": "block",
+         "x": "386",
+         "y": "390",
+         "width": "384",
+         "height": "128"
+      },
+      {
+         "name": "14-breakout-tiles.png",
+         "attributes": {
+            "color": "yellow",
+            "style": "cracked",
+            "property": ""
+         },
+         "description": "block",
+         "x": "386",
+         "y": "260",
+         "width": "384",
+         "height": "128"
+      },
+      {
+         "name": "15-breakout-tiles.png",
+         "attributes": {
+            "color": "darkgreen",
+            "style": "solid",
+            "property": ""
+         },
+         "description": "block",
+         "x": "386",
+         "y": "130",
+         "width": "384",
+         "height": "128"
+      },
+      {
+         "name": "16-breakout-tiles.png",
+         "attributes": {
+            "color": "darkgreen",
+            "style": "cracked",
+            "property": ""
+         },
+         "description": "block",
+         "x": "386",
+         "y": "0",
+         "width": "384",
+         "height": "128"
+      },
+      {
+         "name": "17-breakout-tiles.png",
+         "attributes": {
+            "color": "gray",
+            "style": "solid",
+            "property": ""
+         },
+         "description": "block",
+         "x": "772",
+         "y": "520",
+         "width": "384",
+         "height": "128"
+      },
+      {
+         "name": "18-breakout-tiles.png",
+         "attributes": {
+            "color": "gray",
+            "style": "cracked",
+            "property": ""
+         },
+         "description": "block",
+         "x": "0",
+         "y": "650",
+         "width": "384",
+         "height": "128"
+      },
+      {
+         "name": "19-breakout-tiles.png",
+         "attributes": {
+            "color": "brown",
+            "style": "solid",
+            "property": ""
+         },
+         "description": "block",
+         "x": "386",
+         "y": "780",
+         "width": "384",
+         "height": "128"
+      },
+      {
+         "name": "20-breakout-tiles.png",
+         "attributes": {
+            "color": "brown",
+            "style": "cracked",
+            "property": ""
+         },
+         "description": "block",
+         "x": "0",
+         "y": "780",
+         "width": "384",
+         "height": "128"
+      },
+      {
+         "name": "21-breakout-tiles.png",
+         "attributes": {
+            "color": "darkblue",
+            "style": "cube",
+            "property": ""
+         },
+         "description": "block",
+         "x": "1533",
+         "y": "392",
+         "width": "128",
+         "height": "128"
+      },
+      {
+         "name": "22-breakout-tiles.png",
+         "attributes": {
+            "color": "lightgreen",
+            "style": "cube",
+            "property": ""
+         },
+         "description": "block",
+         "x": "1403",
+         "y": "132",
+         "width": "128",
+         "height": "128"
+      },
+      {
+         "name": "23-breakout-tiles.png",
+         "attributes": {
+            "color": "purple",
+            "style": "cube",
+            "property": ""
+         },
+         "description": "block",
+         "x": "1403",
+         "y": "262",
+         "width": "128",
+         "height": "128"
+      },
+      {
+         "name": "24-breakout-tiles.png",
+         "attributes": {
+            "color": "red",
+            "style": "cube",
+            "property": ""
+         },
+         "description": "block",
+         "x": "1403",
+         "y": "392",
+         "width": "128",
+         "height": "128"
+      },
+      {
+         "name": "25-breakout-tiles.png",
+         "attributes": {
+            "color": "orange",
+            "style": "cube",
+            "property": ""
+         },
+         "description": "block",
+         "x": "1403",
+         "y": "522",
+         "width": "128",
+         "height": "128"
+      },
+      {
+         "name": "26-breakout-tiles.png",
+         "attributes": {
+            "color": "yellow",
+            "style": "cube",
+            "property": ""
+         },
+         "description": "block",
+         "x": "1507",
+         "y": "652",
+         "width": "128",
+         "height": "128"
+      },
+      {
+         "name": "27-breakout-tiles.png",
+         "attributes": {
+            "color": "lightblue",
+            "style": "cube",
+            "property": ""
+         },
+         "description": "block",
+         "x": "1533",
+         "y": "132",
+         "width": "128",
+         "height": "128"
+      },
+      {
+         "name": "28-breakout-tiles.png",
+         "attributes": {
+            "color": "darkgreen",
+            "style": "cube",
+            "property": ""
+         },
+         "description": "block",
+         "x": "1533",
+         "y": "262",
+         "width": "128",
+         "height": "128"
+      },
+      {
+         "name": "29-breakout-tiles.png",
+         "attributes": {
+            "color": "gray",
+            "style": "cube",
+            "property": ""
+         },
+         "description": "block",
+         "x": "1574",
+         "y": "782",
+         "width": "128",
+         "height": "128"
+      },
+      {
+         "name": "30-breakout-tiles.png",
+         "attributes": {
+            "color": "brown",
+            "style": "cube",
+            "property": ""
+         },
+         "description": "block",
+         "x": "1533",
+         "y": "522",
+         "width": "128",
+         "height": "128"
+      },
+      {
+         "name": "31-breakout-tiles.png",
+         "attributes": {
+            "color": "",
+            "style": "powerup",
+            "property": "plus_50"
+         },
+         "description": "paddle",
+         "x": "1403",
+         "y": "66",
+         "width": "243",
+         "height": "64"
+      },
+      {
+         "name": "32-breakout-tiles.png",
+         "attributes": {
+            "color": "",
+            "style": "powerup",
+            "property": ""
+         },
+         "description": "paddle",
+         "x": "1158",
+         "y": "0",
+         "width": "243",
+         "height": "64"
+      },
+      {
+         "name": "33-breakout-tiles.png",
+         "attributes": {
+            "color": "",
+            "style": "powerup",
+            "property": ""
+         },
+         "description": "paddle",
+         "x": "1084",
+         "y": "912",
+         "width": "243",
+         "height": "64"
+      },
+      {
+         "name": "34-breakout-tiles.png",
+         "attributes": {
+            "color": "",
+            "style": "powerup",
+            "property": ""
+         },
+         "description": "paddle",
+         "x": "1084",
+         "y": "846",
+         "width": "243",
+         "height": "64"
+      },
+      {
+         "name": "35-breakout-tiles.png",
+         "attributes": {
+            "color": "",
+            "style": "powerup",
+            "property": ""
+         },
+         "description": "paddle",
+         "x": "1017",
+         "y": "780",
+         "width": "243",
+         "height": "64"
+      },
+      {
+         "name": "36-breakout-tiles.png",
+         "attributes": {
+            "color": "",
+            "style": "powerup",
+            "property": ""
+         },
+         "description": "paddle",
+         "x": "839",
+         "y": "912",
+         "width": "243",
+         "height": "64"
+      },
+      {
+         "name": "37-breakout-tiles.png",
+         "attributes": {
+            "color": "",
+            "style": "powerup",
+            "property": ""
+         },
+         "description": "paddle",
+         "x": "1329",
+         "y": "858",
+         "width": "243",
+         "height": "64"
+      },
+      {
+         "name": "38-breakout-tiles.png",
+         "attributes": {
+            "color": "",
+            "style": "powerup",
+            "property": "plus_100"
+         },
+         "description": "paddle",
+         "x": "1329",
+         "y": "792",
+         "width": "243",
+         "height": "64"
+      },
+      {
+         "name": "39-breakout-tiles.png",
+         "attributes": {
+            "color": "",
+            "style": "powerup",
+            "property": "plus_250"
+         },
+         "description": "paddle",
+         "x": "1403",
+         "y": "0",
+         "width": "243",
+         "height": "64"
+      },
+      {
+         "name": "40-breakout-tiles.png",
+         "attributes": {
+            "color": "",
+            "style": "powerup",
+            "property": "+500"
+         },
+         "description": "paddle",
+         "x": "1329",
+         "y": "924",
+         "width": "243",
+         "height": "64"
+      },
+      {
+         "name": "41-breakout-tiles.png",
+         "attributes": {
+            "color": "",
+            "style": "powerup",
+            "property": "slow"
+         },
+         "description": "paddle",
+         "x": "1158",
+         "y": "66",
+         "width": "243",
+         "height": "64"
+      },
+      {
+         "name": "42-breakout-tiles.png",
+         "attributes": {
+            "color": "",
+            "style": "powerup",
+            "property": "fast"
+         },
+         "description": "paddle",
+         "x": "349",
+         "y": "910",
+         "width": "243",
+         "height": "64"
+      },
+      {
+         "name": "43-breakout-tiles.png",
+         "attributes": {
+            "color": "",
+            "style": "powerup",
+            "property": "three_balls"
+         },
+         "description": "paddle",
+         "x": "594",
+         "y": "910",
+         "width": "243",
+         "height": "64"
+      },
+      {
+         "name": "44-breakout-tiles.png",
+         "attributes": {
+            "color": "",
+            "style": "powerup",
+            "property": "super_ball"
+         },
+         "description": "paddle",
+         "x": "1262",
+         "y": "726",
+         "width": "243",
+         "height": "64"
+      },
+      {
+         "name": "45-breakout-tiles.png",
+         "attributes": {
+            "color": "",
+            "style": "powerup",
+            "property": "bottom_bounce"
+         },
+         "description": "paddle",
+         "x": "1158",
+         "y": "132",
+         "width": "243",
+         "height": "64"
+      },
+      {
+         "name": "46-breakout-tiles.png",
+         "attributes": {
+            "color": "",
+            "style": "powerup",
+            "property": "shrink"
+         },
+         "description": "paddle",
+         "x": "1158",
+         "y": "198",
+         "width": "243",
+         "height": "64"
+      },
+      {
+         "name": "47-breakout-tiles.png",
+         "attributes": {
+            "color": "",
+            "style": "powerup",
+            "property": "grow"
+         },
+         "description": "paddle",
+         "x": "1158",
+         "y": "264",
+         "width": "243",
+         "height": "64"
+      },
+      {
+         "name": "48-breakout-tiles.png",
+         "attributes": {
+            "color": "",
+            "style": "powerup",
+            "property": ""
+         },
+         "description": "paddle",
+         "x": "1158",
+         "y": "330",
+         "width": "243",
+         "height": "64"
+      },
+      {
+         "name": "49-breakout-tiles.png",
+         "attributes": {
+            "color": "",
+            "style": "default",
+            "property": ""
+         },
+         "description": "paddle",
+         "x": "1158",
+         "y": "396",
+         "width": "243",
+         "height": "64"
+      },
+      {
+         "name": "50-breakout-tiles.png",
+         "attributes": {
+            "color": "",
+            "style": "",
+            "property": ""
+         },
+         "description": "paddle",
+         "x": "1158",
+         "y": "462",
+         "width": "243",
+         "height": "64"
+      },
+      {
+         "name": "51-breakout-tiles.png",
+         "attributes": {
+            "color": "",
+            "style": "",
+            "property": ""
+         },
+         "description": "paddle",
+         "x": "1158",
+         "y": "528",
+         "width": "243",
+         "height": "64"
+      },
+      {
+         "name": "52-breakout-tiles.png",
+         "attributes": {
+            "color": "",
+            "style": "",
+            "property": ""
+         },
+         "description": "paddle",
+         "x": "1158",
+         "y": "594",
+         "width": "243",
+         "height": "64"
+      },
+      {
+         "name": "53-breakout-tiles.png",
+         "attributes": {
+            "color": "",
+            "style": "",
+            "property": ""
+         },
+         "description": "paddle",
+         "x": "1158",
+         "y": "660",
+         "width": "243",
+         "height": "64"
+      },
+      {
+         "name": "54-breakout-tiles.png",
+         "attributes": {
+            "color": "",
+            "style": "",
+            "property": ""
+         },
+         "description": "paddle",
+         "x": "839",
+         "y": "846",
+         "width": "243",
+         "height": "64"
+      },
+      {
+         "name": "55-breakout-tiles.png",
+         "attributes": {
+            "color": "",
+            "style": "",
+            "property": ""
+         },
+         "description": "paddle",
+         "x": "772",
+         "y": "780",
+         "width": "243",
+         "height": "64"
+      },
+      {
+         "name": "56-breakout-tiles.png",
+         "attributes": {
+            "color": "",
+            "style": "",
+            "property": ""
+         },
+         "description": "paddle",
+         "x": "0",
+         "y": "910",
+         "width": "347",
+         "height": "64"
+      },
+      {
+         "name": "57-breakout-tiles.png",
+         "attributes": {
+            "color": "",
+            "style": "",
+            "property": ""
+         },
+         "description": "paddle",
+         "x": "1574",
+         "y": "912",
+         "width": "115",
+         "height": "64"
+      },
+      {
+         "name": "58-breakout-tiles.png",
+         "attributes": {
+            "color": "",
+            "style": "ball",
+            "property": ""
+         },
+         "description": "ball",
+         "x": "1403",
+         "y": "652",
+         "width": "64",
+         "height": "64"
+      },
+      {
+         "name": "59-breakout-tiles.png",
+         "attributes": {
+            "color": "",
+            "style": "powerup",
+            "property": ""
+         },
+         "description": "star",
+         "x": "772",
+         "y": "846",
+         "width": "64",
+         "height": "61"
+      },
+      {
+         "name": "60-breakout-tiles.png",
+         "attributes": {
+            "color": "",
+            "style": "powerup",
+            "property": "extra_life"
+         },
+         "description": "health",
+         "x": "1637",
+         "y": "652",
+         "width": "64",
+         "height": "58"
+      },
+      {
+         "name": "61-breakout-tiles.png",
+         "attributes": {
+            "color": "",
+            "style": "",
+            "property": ""
+         },
+         "description": "shoot",
+         "x": "0",
+         "y": "990",
+         "width": "10",
+         "height": "21"
+      }
+   ]
+}
